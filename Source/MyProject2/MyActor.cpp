@@ -15,5 +15,5 @@ void AMyActor::BeginPlay() { Super::BeginPlay(); }
 // Called every frame
 void AMyActor::Tick(float DeltaTime) {
   Super::Tick(DeltaTime);
-  printf("hello world!\n");
+  printf("hello world!!!!!\n");
 }
